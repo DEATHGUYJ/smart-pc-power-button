@@ -1,8 +1,8 @@
 # Smart PC Power Button
 
-Control your PC's power button with a Google Home voice command. Built on a Raspberry Pi Pico W, a single relay, and [SinricPro](https://sinric.pro).
+Control your PC's power button from Google Home — tap the button in the app or use a voice command. Built on a Raspberry Pi Pico W, a single relay, and [SinricPro](https://sinric.pro).
 
-> "Hey Google, turn on my PC"
+> Tap the tile in the Google Home app, or say "Hey Google, turn on my PC"
 
 ---
 
