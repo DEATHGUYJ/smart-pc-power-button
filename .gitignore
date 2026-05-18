@@ -1,0 +1,6 @@
+# Credentials — copy secrets.example.py → secrets.py and fill in
+secrets.py
+
+# MicroPython bytecode cache
+*.mpy
+__pycache__/

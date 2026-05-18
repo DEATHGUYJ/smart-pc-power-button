@@ -1,0 +1,5 @@
+WIFI_SSID  = "your-wifi-name"
+WIFI_PASS  = "your-wifi-password"
+APP_KEY    = "your-sinricpro-app-key"
+APP_SECRET = "your-sinricpro-app-secret"
+DEVICE_ID  = "your-sinricpro-device-id"
